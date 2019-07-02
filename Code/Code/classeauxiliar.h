@@ -1,0 +1,4 @@
+#ifndef CLASSEAUXILIAR_H
+#define CLASSEAUXILIAR_H
+
+#endif // CLASSEAUXILIAR_H

@@ -1,0 +1,18 @@
+*******Leia-me*******
+
+- Não retire o Executável desta pasta
+aqui é onde estão todas as DLL's para
+execução do arquivo;
+
+- Os nomes dos desenvolvedores estão no
+ComboBox do programa;
+
+
+*******Hipermercado Japi*******
+
+Desenvolvido por:
+- Anderson;
+- Brendo;
+- Cristiano;
+- João Eliandro;
+- Raimundo;

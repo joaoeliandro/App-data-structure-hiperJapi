@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>email.png</file>
+        <file>wpp.png</file>
+        <file>hiperjapi.png</file>
+    </qresource>
+</RCC>
